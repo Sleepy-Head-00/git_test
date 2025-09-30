@@ -1,2 +1,2 @@
 # git_test
-Hello Odin!s
+Hello, this is the second test from the iMAC -Odin
